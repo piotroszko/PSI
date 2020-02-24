@@ -11,6 +11,10 @@ https://www.google.com/search?q=systemowe+wrycza+uml&rlz=1C1GCEU_plPL819PL819&oq
 
 -Enterprise Architect
 
+Office "Teams"
 
 
 
+Zad domowe 1:
+konto  -  https://pz.gov.pl/dt/login/login?urlt=1g0gcdqvgbkd955ijk0j
+edowod (na komorce)
