@@ -18,3 +18,6 @@ Office "Teams"
 Zad domowe 1:
 konto  -  https://pz.gov.pl/dt/login/login?urlt=1g0gcdqvgbkd955ijk0j
 edowod (na komorce)
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+-Systemowe przypadki użycia
