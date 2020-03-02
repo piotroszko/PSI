@@ -21,3 +21,9 @@ edowod (na komorce)
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 -Systemowe przypadki użycia
+-(
+tanisław Wrycza, „ Język UML 2.0 w modelowaniu systemów informatycznych”,
+Helion 20052.Stanisław Wrycza, „Ćwiczenia UML 2.1” ,
+Helion 20063.Stanisław Wrycza, „UML 2.x. Ćwiczenia zaawansowane” , Helion 2012
+)-
+
